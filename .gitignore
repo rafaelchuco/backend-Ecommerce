@@ -5,3 +5,5 @@ __pycache__/
 *.pyo
 *.pyd
 db_dev.sqlite3
+*.env
+.env.*
